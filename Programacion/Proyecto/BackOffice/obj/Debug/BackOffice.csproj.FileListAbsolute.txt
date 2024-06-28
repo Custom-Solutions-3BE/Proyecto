@@ -2,9 +2,9 @@ C:\Users\Liam\source\repos\Proyecto\Programacion\Proyecto\BackOffice\bin\Debug\B
 C:\Users\Liam\source\repos\Proyecto\Programacion\Proyecto\BackOffice\bin\Debug\BackOffice.exe
 C:\Users\Liam\source\repos\Proyecto\Programacion\Proyecto\BackOffice\bin\Debug\BackOffice.pdb
 C:\Users\Liam\source\repos\Proyecto\Programacion\Proyecto\BackOffice\obj\Debug\BackOffice.csproj.AssemblyReference.cache
-C:\Users\Liam\source\repos\Proyecto\Programacion\Proyecto\BackOffice\obj\Debug\BackOffice.BackOfficeBack.resources
 C:\Users\Liam\source\repos\Proyecto\Programacion\Proyecto\BackOffice\obj\Debug\BackOffice.Properties.Resources.resources
 C:\Users\Liam\source\repos\Proyecto\Programacion\Proyecto\BackOffice\obj\Debug\BackOffice.csproj.GenerateResource.cache
 C:\Users\Liam\source\repos\Proyecto\Programacion\Proyecto\BackOffice\obj\Debug\BackOffice.csproj.CoreCompileInputs.cache
 C:\Users\Liam\source\repos\Proyecto\Programacion\Proyecto\BackOffice\obj\Debug\BackOffice.exe
 C:\Users\Liam\source\repos\Proyecto\Programacion\Proyecto\BackOffice\obj\Debug\BackOffice.pdb
+C:\Users\Liam\source\repos\Proyecto\Programacion\Proyecto\BackOffice\obj\Debug\BackOffice.BackOffice.resources
